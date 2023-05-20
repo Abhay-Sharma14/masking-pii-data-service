@@ -1,4 +1,4 @@
-package com.javatechie;
+package com.masking.pii.data;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
